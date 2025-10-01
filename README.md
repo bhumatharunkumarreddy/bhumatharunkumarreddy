@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** Python, Java, R, SQL, MATLAB  
+- **Languages:** Python, HTML, CSS, SQL,  
 - **Technologies:** YOLOv5, TensorFlow, OpenCV, Raspberry Pi, Microsoft Azure  
-- **Concepts:** Machine Learning, Deep Learning, Data Structures, Data Analytics  
+- **Concepts:** Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Data Structures, Data Analytics
 - **Soft Skills:** Teamwork, Leadership, Critical Thinking
 
 ---
